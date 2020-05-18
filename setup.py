@@ -102,7 +102,8 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+#NAME = PACKAGE
+NAME = 'libpythonpro-jes'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Jessica Lima"
 AUTHOR_EMAIL = "jessica_is2@hotmail.com"
