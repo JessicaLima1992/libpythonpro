@@ -6,6 +6,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/CursoPythonPro/libpythonpro.svg?branch=master)](https://travis-ci.org/CursoPythonPro/libpythonpro)
+[![Update](https://pyup.io/respo/github/CursoPythonPro/libpythonpro/shield.svg)](https://pyup.io/account/repos/github/CursoPythonPro/libpythonpro/)
+[![Python 3](https://pyup.io/respo/github/CursoPythonPro/libpythonpro/shield.svg)](https://pyup.io/account/repos/github/CursoPythonPro/libpythonpro/)
+
 
 Suportada versão 3 de Python
 
