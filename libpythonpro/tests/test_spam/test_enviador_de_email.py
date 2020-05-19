@@ -36,4 +36,3 @@ def test_remetente_invalido(destinatario):
             'Cursos Python Pro',
             'Primeira turma Luiz Vital aberta.'
         )
-
