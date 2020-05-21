@@ -28,4 +28,3 @@ def test_qde_de_spam(sessao, usuarios):
         'Confira os módulos fantásticos'
     )
     assert len(usuarios) == enviador.qtd_email_enviados
-
